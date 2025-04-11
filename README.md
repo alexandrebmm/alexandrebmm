@@ -30,16 +30,16 @@ Apart from the technologies above, my technical proficiency also includes:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=14&center=true&width=550&lines=Design+Patterns%2C+SOLID+Principles%2C+Refactoring;Clean+Code%2C+Clean+Architecture%2C+Code+Review;Jetpack+(Compose%2C+Room%2C+WorkManager%2C+Lifecycle%2C+DataBinding+etc.);Git%2C+SVN%2C+Github%2C+Gitlab%2C+BitBucket%2C+Azure+Repos;MVVM%2C+MVP%2C+MVI%2C+MVC%2C+RESTful%2C+Client-Server;RESTful%2C+Postman%2C+Charles%20Proxy;NFC%2C+Camera%2C+Biometric%2C+IoT+devices;Dagger2%2FHilt%2C+Coroutines%2C+Glide%2C+PushNotifications%2C+ZXing%2C+ZPL;Barcode%2FQRCode%2C+XML%2C+JSON%2C+NDJSON)
 
 <div align="left" />
-<h3>Languages</h3>
+<h3>Others</h3>
 
-- 🔭 I’m currently working at Seven Principles Mobility GmbH in a project from Schwarz IT.
+- 🔭 I’m currently working at Seven Principles Mobility GmbH in a project from Schwarz IT
 - 🌱 I’m currently learning trying to learn how to play guitar properly
-- 👯 I’m collaborating in personal project with [fthiagomedeiros](https://github.com/fthiagomedeiros).
+- 👯 I’m collaborating in personal project with [@fthiagomedeiros](https://github.com/fthiagomedeiros).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to learn and speak new languages. Currently I can speak 4 (Brazilian Portuguese, English, German, French). Duolingo is amazing 😁
+- ⚡ Fun fact: I like to learn and speak new languages. Thanks Duolingo ❤
+- 📫 How to reach me:
 
 <div align="center">
-<a href="https://wa.me/351913609658/?text=Hello,%20Alexandre.%20I%20visited%20your%20personal%20website." target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/alexandrebmm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/alexandrebmm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://alexandrebmm.github.io/#portfolio" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-FFCC01?style=for-the-badge&logo=superuser&logoColor=black" target="_blank"></a>
