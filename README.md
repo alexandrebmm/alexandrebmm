@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alexandrebmm/alexandrebmm/master/image/computer.png" min-width="350px" max-width="350px" width="350px" align="right" alt="pc">
+<img src="https://raw.githubusercontent.com/alexandrebmm/alexandrebmm/master/image/computer.png" min-width="300px" max-width="300px" width="300px" align="right" alt="pc">
 
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>
