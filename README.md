@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1414b8&text=Alexandre%20Medeiros&fontSize=32&fontColor=888888&desc=Android%20Developer&descSize=18&descAlignY=75&stroke=cccccc&strokeWidth=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1414b8&text=Alexandre%20Medeiros&fontSize=32&fontColor=888888&desc=Android%20Developer&descSize=18&descAlignY=75&stroke=cccccc&strokeWidth=0.5"/>
 
 <div align="center">
 
