@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alexandrebmm/alexandrebmm/master/image/computer.png" min-width="300px" max-width="300px" width="300px" align="right" alt="pc">
+<img src="https://raw.githubusercontent.com/alexandrebmm/alexandrebmm/master/image/computer.png" min-width="250px" max-width="250px" width="250px" align="right" alt="pc">
 
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>
@@ -27,7 +27,7 @@
 <br />
 Apart from the technologies above, my technical proficiency also includes:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=14&center=true&width=550&lines=Design+Patterns%2C+SOLID+Principles%2C+Refactoring;Clean+Code%2C+Clean+Architecture%2C+Code+Review;Jetpack+(Compose%2C+Room%2C+WorkManager%2C+Lifecycle%2C+DataBinding+etc.);Git%2C+SVN%2C+Github%2C+Gitlab%2C+BitBucket%2C+Azure+Repos;MVVM%2C+MVP%2C+MVI%2C+MVC%2C+RESTful%2C+Client-Server;RESTful%2C+Postman%2C+Charles%20Proxy;NFC%2C+Camera%2C+Biometric%2C+IoT+devices;Dagger2%2FHilt%2C+Coroutines%2C+Glide%2C+PushNotifications%2C+ZXing%2C+ZPL;Barcode%2FQRCode%2C+XML%2C+JSON%2C+NDJSON)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=14&center=true&width=500&lines=Design+Patterns%2C+SOLID+Principles%2C+Refactoring;Clean+Code%2C+Clean+Architecture%2C+Code+Review;Jetpack+(Compose%2C+Room%2C+WorkManager%2C+Lifecycle%2C+DataBinding+etc.);Git%2C+SVN%2C+Github%2C+Gitlab%2C+BitBucket%2C+Azure+Repos;MVVM%2C+MVP%2C+MVI%2C+MVC%2C+RESTful%2C+Client-Server;RESTful%2C+Postman%2C+Charles%20Proxy;NFC%2C+Camera%2C+Biometric%2C+IoT+devices;Dagger2%2FHilt%2C+Coroutines%2C+Glide%2C+PushNotifications%2C+ZXing%2C+ZPL;Barcode%2FQRCode%2C+XML%2C+JSON%2C+NDJSON)
 
 <div align="left" />
 <h3>Others</h3>
