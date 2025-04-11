@@ -46,6 +46,7 @@ Apart from the technologies above, my technical proficiency also includes:
 <a href="https://open.spotify.com/user/skaleworld" target="_blank"><img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 <br />
+<br />
 <div>
 I am a dedicated and innovative software engineer with a strong passion for creating meaningful digital experiences, especially for mobile world. My professional journey in the world of software development began in 2015, and since then, I have continuously expanded my skill set and expertise across a range of technologies and tools.
 Over the past years, I have accumulated many interesting challenges and personal achievements, which I want to share with you.
