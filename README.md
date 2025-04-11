@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1414b8&text=Alexandre%20Medeiros&fontSize=32&fontColor=888888&desc=Android%20Developer&descSize=18&descAlignY=75&stroke=cccccc&strokeWidth=0.5"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1414b8&text=Alexandre%20Medeiros&fontSize=32&fontColor=888888&desc=Android%20Developer&descSize=18&descAlignY=75&stroke=cccccc&strokeWidth=1"/>
 
 <div align="center">
 
@@ -40,10 +40,10 @@ Apart from the technologies above, my technical proficiency also includes:
 - 📫 How to reach me:
 
 <div align="center">
-<a href="https://www.linkedin.com/in/alexandrebmm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/alexandrebmm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://alexandrebmm.github.io/#portfolio" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-FFCC01?style=for-the-badge&logo=superuser&logoColor=black" target="_blank"></a>
-<a href="https://open.spotify.com/user/skaleworld" target="_blank"><img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alexandrebmm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
+<a href="https://instagram.com/alexandrebmm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://alexandrebmm.github.io/#portfolio" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-FFCC01?style=for-the-badge&logo=superuser&logoColor=black" alt="Website"></a>
+<a href="https://open.spotify.com/user/skaleworld" target="_blank"><img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 <br />
 <br />
