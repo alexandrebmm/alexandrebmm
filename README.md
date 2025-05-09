@@ -26,8 +26,19 @@
 </div>
 <br />
 Apart from the technologies above, my technical proficiency also includes:
+<br />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=888888&size=14&center=true&width=500&lines=Design+Patterns%2C+SOLID+Principles%2C+Refactoring;Clean+Code%2C+Clean+Architecture%2C+Code+Review;Jetpack+(Compose%2C+Room%2C+WorkManager%2C+Lifecycle+etc.);Git%2C+SVN%2C+Github%2C+Gitlab%2C+BitBucket%2C+Azure+Repos;MVVM%2C+MVP%2C+MVI%2C+MVC%2C+RESTful%2C+Client-Server;RESTful%2C+Postman%2C+Charles%20Proxy;NFC%2C+Camera%2C+Biometric%2C+IoT+devices;Dagger2%2FHilt%2C+Coroutines%2C+Glide%2C+PushNotifications;Barcode%2FQRCode%2C+XML%2C+JSON%2C+NDJSON;...among+many+others!)
+<br />
+<span align="justify">
+<li>Design Patterns, SOLID Principles, Refactoring, Clean Code, Clean Architecture, Code Review</li>
+<li>Jetpack (Compose, Room, WorkManager, Lifecycle, etc.)</li>
+<li>Git, SVN, GitHub, GitLab, BitBucket, Azure Repos</li>
+<li>MVVM, MVP, MVI, MVC, RESTful, Client-Server</li>
+<li>RESTful, Postman, Charles Proxy</li>
+<li>NFC, Camera, Biometric, IoT devices</li>
+<li>Dagger2/Hilt, Coroutines, Glide, Push Notifications</li>
+<li>Barcode/QRCode, XML, JSON, NDJSON</li>
+</span>
 
 <div align="left" />
 <h3>Others</h3>
