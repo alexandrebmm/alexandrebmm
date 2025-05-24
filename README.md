@@ -31,7 +31,7 @@ Apart from the technologies above, my technical proficiency also includes:
 <br />
 <span align="justify">
 <li>Design Patterns, SOLID Principles, Refactoring, Clean Code, Clean Architecture, Code Review</li>
-<li>Jetpack (Compose, Room, WorkManager, Lifecycle, etc.)</li>
+<li>Jetpack (Compose, Room, WorkManager, Lifecycle, Room etc.)</li>
 <li>Git, SVN, GitHub, GitLab, BitBucket, Azure Repos</li>
 <li>MVVM, MVP, MVI, MVC, RESTful, Client-Server</li>
 <li>RESTful, Postman, Charles Proxy</li>
